@@ -1,2 +1,5 @@
 naiki
+<<<<<<< HEAD
 swagat
+=======
+>>>>>>> 1d8fb53 (file added in new branch)
